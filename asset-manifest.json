@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f09c4394.chunk.css",
+    "main.js": "/static/js/main.2290d0cf.chunk.js",
+    "main.js.map": "/static/js/main.2290d0cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bc5903cd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bc5903cd.js.map",
+    "static/js/2.710dab8a.chunk.js": "/static/js/2.710dab8a.chunk.js",
+    "static/js/2.710dab8a.chunk.js.map": "/static/js/2.710dab8a.chunk.js.map",
+    "static/js/3.db834d2d.chunk.js": "/static/js/3.db834d2d.chunk.js",
+    "static/js/3.db834d2d.chunk.js.map": "/static/js/3.db834d2d.chunk.js.map",
+    "static/js/4.1636db5e.chunk.js": "/static/js/4.1636db5e.chunk.js",
+    "static/js/4.1636db5e.chunk.js.map": "/static/js/4.1636db5e.chunk.js.map",
+    "static/js/5.81891f04.chunk.js": "/static/js/5.81891f04.chunk.js",
+    "static/js/5.81891f04.chunk.js.map": "/static/js/5.81891f04.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f09c4394.chunk.css.map": "/static/css/main.f09c4394.chunk.css.map",
+    "static/js/2.710dab8a.chunk.js.LICENSE.txt": "/static/js/2.710dab8a.chunk.js.LICENSE.txt",
+    "static/js/3.db834d2d.chunk.js.LICENSE.txt": "/static/js/3.db834d2d.chunk.js.LICENSE.txt",
+    "static/media/BinanceChain.png": "/static/media/BinanceChain.358a42f2.png",
+    "static/media/CoinbaseWallet.098d24ab.png": "/static/media/CoinbaseWallet.098d24ab.png",
+    "static/media/Ethereum.0da9a224.png": "/static/media/Ethereum.0da9a224.png",
+    "static/media/index.css": "/static/media/Gotham-Medium.d6e50a8b.otf",
+    "static/media/Terra.png": "/static/media/Terra.86bd7be6.png",
+    "static/media/complete.3a4baf18.gif": "/static/media/complete.3a4baf18.gif",
+    "static/media/electric.a10e8745.gif": "/static/media/electric.a10e8745.gif",
+    "static/media/failed.1ac7e8c1.gif": "/static/media/failed.1ac7e8c1.gif",
+    "static/media/harmony-one.c0501fe3.png": "/static/media/harmony-one.c0501fe3.png",
+    "static/media/loading.2890af3c.gif": "/static/media/loading.2890af3c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc5903cd.js",
+    "static/js/2.710dab8a.chunk.js",
+    "static/css/main.f09c4394.chunk.css",
+    "static/js/main.2290d0cf.chunk.js"
+  ]
+}
